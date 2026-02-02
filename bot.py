@@ -3,7 +3,7 @@ from telebot.types import BotCommand
 from keyboards import general_classes, inline_hafta_kunlari
 from jadval import jadval
 
-TOKEN = "8534971100:AAHFEqibgz-E47qxXh6Hg0QvhygBjiVe2go"
+TOKEN = "8534971100:AAE-2WMAmChjufLZ_87-QcyfSF-8NI9v8Zc"
 bot = telebot.TeleBot(TOKEN)
 
 
